@@ -36,7 +36,6 @@ def display_banner():
     ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝        ╚═════╝ ╚══════╝╚═╝  ╚═══╝
     """
     
-    # Clean footer removed (no "Developed by Maleta")
     print(banner)
 
 # Main function to handle user input and processing
